@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sree030244
 - 👀 I’m interested in Cloud Technologies 
 - 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GCP projects
 - 📫 How to reach me ...
 
 <!---
